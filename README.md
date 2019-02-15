@@ -11,7 +11,7 @@
 
 This repository is for the Udacity Arcade Game Clone Project. The project leverages the use of Object Oriented Javascript by using Object Oriented principles. 
 
-## Description
+## Download Instructions
 
 Simply clone this repository and unzip the zip file. Go to the decompressed folder and run index.html.
 
